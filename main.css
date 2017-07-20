@@ -1,3 +1,21 @@
 body {
-  padding-top: 50px;
+  padding: 50px;
 }
+
+.thumbnails {
+	cursor: pointer;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.channel-link {
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+	padding-left: 20px;
+	margin-bottom: 20px;
+}
+
+/*.video-links {
+	text-align: center;
+}*/
